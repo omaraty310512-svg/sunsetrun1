@@ -1,0 +1,10 @@
+{
+  "name": "Sunset Run — Desert Highway Racer",
+  "short_name": "Sunset Run",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#1b1030",
+  "theme_color": "#1b1030",
+  "icons": []
+}
